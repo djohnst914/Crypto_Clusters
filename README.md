@@ -55,6 +55,7 @@ The libraries listed above all come automatically installed with the Anaconda pa
 
 ## *Usage*
 
+- First, open 'crypto_investments.ipynb' in your file browser. 
 - With your mouse navigate near the top of the tab, select 'Kernel', then inside Kernel you'll select 'Restart Kernel and Run All Cells...' This will automatically run the whole program for you start to finish. 
 ![Screenshot 2023-05-11 at 10 24 08 AM](https://github.com/djohnst914/github_upload/assets/123714457/b90fb7ec-793c-40c4-98ed-f0c68d5541f0)
 - Once the jupyter notebook has fully loaded after running all cells, there are a few interactive graphs the user can manipulate to better understand a trend or explore a hypothesis they might have. The graphs are reltaively very user friendly, but if you find yourself having issues interacting with the them .. 
