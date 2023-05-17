@@ -51,6 +51,7 @@ The libraries listed above all come automatically installed with the Anaconda pa
         jupyter lab
 
 ### **IMPORTANT:** Ensure the Conda 'dev' environment is activated before running the 'jupyter lab' command. Otherwise, the application may result in errors when you try to run it
+
 ---
 
 ## *Usage*
@@ -69,7 +70,6 @@ For any questions/concerns, anything at all feel free to contact below
 - Dylan Johnston
 - Email: dylanhjjohnston@gmail.com
 - [GitHub](https://github.com/djohnst914)
-
 
 ---
 
