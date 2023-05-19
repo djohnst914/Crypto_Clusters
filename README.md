@@ -10,7 +10,7 @@ Above, I have created a Jupyter notebook that clusters cryptocurrencies by their
 ## *Technologies*
 
 - **Programming Language:** Python
-- **Libraries:** Pandas, hvPlot, pathlib, sklearn(KMeans, PCA, StandardScaler)
+- **Libraries:** Pandas, hvPlot, pathlib, sklearn(KMeans, PCA, StandardScaler), warnings
 - **Framework:** JupyterLab
 - **Operating Systems:** Mac OS, Microsoft Windows
 
