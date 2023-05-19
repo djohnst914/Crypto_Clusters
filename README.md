@@ -66,7 +66,7 @@ The libraries listed above all come automatically installed with the Anaconda pa
 ---
 
 ## *Contributor*
-For any questions/concerns, anything at all feel free to contact below
+For any questions, comments, concerns: 
 - Dylan Johnston
 - Email: dylanhjjohnston@gmail.com
 - [GitHub](https://github.com/djohnst914)
